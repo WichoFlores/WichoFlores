@@ -34,7 +34,7 @@
 - 💭 I believe and practice constant **self-development**  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I hate PHP and Java  
 
 
 </td></tr></table>  
