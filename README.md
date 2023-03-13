@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/38268569?s=400&u=2c7a2dc531750a95717c443f180a2fd79f1dfe5e&v=4" align="center" height="250" width="" />
-</div>  
   
 
 ### <div align="center">HI! 👋🏼 I'm Luis, a full-stack developer and psychology aficionado 👨🏼‍💻</div>  
