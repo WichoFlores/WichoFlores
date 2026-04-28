@@ -2,11 +2,15 @@
 
 **Senior Full-Stack Developer** · **Psychologist** · Building things that make sense for people.
 
-I'm a Computer Science and Psychology double major who believes great software starts with understanding not just systems, but people too. I've led frontend and backend work across the stack, and I try to bring the same curiosity to debugging as I do to understanding why people behave the way they do.
+I'm a Computer Science and Psychology double major who believes great software starts with understanding not just systems, but people too. I've led frontend and backend work across the stack, and I try to bring the same curiosity to coding as I do to understanding why people behave the way they do.
 
 When I'm not coding, I'm probably reading about cognitive psychology, creating content, or exploring new ways to bridge tech and mental health.
 
 ---
+
+### Currently working on
+
+www.dsmdle.com - A Wordle-style clinical psychology game
 
 ### What I work with
 
